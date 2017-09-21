@@ -1,5 +1,5 @@
-# Site under construction
+# Site under reconstruction
 
-Come back next week.
+Please come see us next week!
 
---Luke
+[tgb@email.arizona.edu](tgb@email.arizona.edu)
