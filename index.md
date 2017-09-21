@@ -1,7 +1,7 @@
 The Bever Language and Cognition Laboratory
 -------------------------------------------
 
-<img src="images/tgb.jpg" alt="alt text" width="250" float="right" align="right">
+<img src="images/tgb.jpg" alt="alt text" width="250" float="right" align="right" padding="10px">
 
 ### University of Arizona Cognitive Science Program, Department of Linguistics, Department of Psychology
 
