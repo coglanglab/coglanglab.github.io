@@ -1,3 +1,5 @@
+# People
+
 ## Doctoral Students
 
 -   [Hicham Assaoui](hicham) (SLAT)
