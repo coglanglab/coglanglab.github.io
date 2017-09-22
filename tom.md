@@ -3,8 +3,9 @@
 
 ### Professor of Linguistics, Psychology, Cognitive Science &amp; Neuroscience
 
-![tgb](images/tgb.jpg)  
+<img src="images/tgb.jpg" alt="alt text" width="250" padding="10px">
 
+[CV](dox/tgb_cv_jan16.docx)
 
 Tom Bever's teaching and research focuses on the foundations of Cognitive and Linguistic Universals. He ordinarily works with a large number of independent study undergraduates, graduate students and colleagues: he works with students in each of the four programs listed above.
 
