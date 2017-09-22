@@ -1,5 +1,4 @@
-Doctoral Students
------------------
+## Doctoral Students
 
 -   [Hicham Assaoui](hicham.html) (SLAT)
 -   [Rachel Brown](rachel.html) (Linguistics)
@@ -9,18 +8,15 @@ Doctoral Students
 -   [Leah Rice](leah.html) (Linguistics)
 -   [Luke Smith](luke.html) (Linguistics)
 
-Visiting Scholars
------------------
+## Visiting Scholars
 
 TBA.
 
-Undergraduate Students
-----------------------
+## Undergraduate Students
 
 TBA.
 
-Alumni
-------
+## Alumni
 
 -   Elizabeth Specker (Ph.D. 2007)
 -   Jody Cripps (Ph.D. 2007)
