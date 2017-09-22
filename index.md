@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # Site under reconstruction
