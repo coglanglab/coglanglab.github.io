@@ -1,6 +1,6 @@
 # Thomas G. Bever
 
-# Professor of Linguistics, Psychology, Cognitive Science &amp; Neuroscience
+## Professor of Linguistics, Psychology, Cognitive Science &amp; Neuroscience
 
 <img src="images/tgb.jpg" alt="alt text" width="250" padding="10px">
 
