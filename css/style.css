@@ -1,0 +1,122 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+Author :  Luke Smith
+URL :     lukesmith.xyz
+Email :   luke@lukesmith.xyz
+
+Created : September 11, First Year of Our Lord Trump
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+/* ----- CSS ----- */
+
+*{
+    margin:0;
+    padding:0;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+body, html{
+	width:780px;
+	margin-left:auto;
+	margin-right:auto;
+	color: white;
+	background:black;
+	background: linear-gradient(black,midnightblue,lightblue) no-repeat fixed;
+	margin-bottom:400px;
+}
+a{
+    font-weight: bold;
+    color: forestgreen;
+    text-decoration:underline;
+}
+    a:hover{
+        color:#717171;
+        text-decoration:none;
+    }
+
+
+/* ----- IDS ----- */
+
+#content{
+	background: #ddddff;
+	color: #333;
+	margin: 0px 20px 0px 20px;
+	border-style: solid;
+	border-radius: 0px 0px 20px 20px;
+	border-width: 0px 5px 5px 5px;
+	border-color: darkblue;
+	padding: 20px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: black;
+	padding: 5px;
+}
+/* ----- HEADER ----- */
+
+
+#banner{
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	padding:30px 0 0 10px;
+	height:64px;
+	background:midnightblue;
+	color:white;
+	font-size:xx-large;
+	vertical-align: center;
+}
+
+/* ----- NAVIGATION ----- */
+
+#navigation{
+    padding: 0px;
+    background:darkblue;
+    height:34px;
+    border-radius: 0px 0px 20px 20px;
+    list-style:none;
+    text-align: center;
+}
+    #navigation li{
+        float:left;
+        clear:none;
+        list-style:none;
+    }
+    #navigation li a{
+        color:#fff;
+        display:block;
+        font-size:12px;
+        text-decoration:none;
+        font-weight:bold;
+        padding:10px 18px;
+    }
+    #navigation li a:hover{
+        color:black;
+	border-radius: 20px;
+        background:lightblue;
+    }
+
+img {
+	padding: 5px;
+}
+p {
+	padding: 5px 0 5px 0px;
+}
+
+li {
+	padding: 2px 0px 2px 0px;
+}
+
+/* ----- HEADINGS ----- */
+
+
+
+
+
+
+/* ----- CLASSES ----- */
+
+.clear{
+    clear:both;
+}
