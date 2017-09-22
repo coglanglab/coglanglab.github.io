@@ -2,13 +2,13 @@
 
 ## Doctoral Students
 
--   [Hicham Assaoui](hicham) (SLAT)
--   [Rachel Brown](rachel) (Linguistics)
--   [Stanley Donahoo](stanley) (Linguistics)
--   [Shannon Grippando](shannon) (Linguistics)
--   [Joshua Meyer](josh) (Linguistics)
--   [Leah Rice](leah) (Linguistics)
--   [Luke Smith](luke) (Linguistics)
+-   Hicham Assaoui (SLAT)
+-   Rachel Brown (Linguistics)
+-   Stanley Donahoo (Linguistics)
+-   Shannon Grippando (Linguistics)
+-   Joshua Meyer (Linguistics)
+-   Leah Rice (Linguistics)
+-   Luke Smith (Linguistics)
 
 ## Visiting Scholars
 
