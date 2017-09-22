@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Site under reconstruction
 
 Please come see us next week!
