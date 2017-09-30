@@ -1,38 +1,17 @@
-# Language and Cognition Lab at the University of Arizona
+# The Language and Cognition Lab
 
 <img src="images/tgb.jpg" alt="alt text" width="250" float="right" align="right" padding="10px">
 
-### University of Arizona Cognitive Science Program, Department of Linguistics, Department of Psychology
+### Welcome!
 
-My research has two primary directions, applied and theoretical. While
-they tend to support and enrich each other and there is some overlap in
-actual paradigms, I present them separately because of the difference in
-their implications. Students or others interested in more details should
-write me at tgb@u.arizona.edu for a full description of current
-projects.
+The Language and Cognition Lab at the University of Arizona focuses on the core questions in cognitive science through the psycholinguistic and neurological study of language.
 
-### Theoretical Linguistics and Psychology
+See [Projects](projects) for information about different ongoing projects, most of which are led by individual graduate students.
 
-The engine underlying much of my theoretical research is the perennial
-question: What is the source of linguistic universals? This is critical
-to the study of grammar, since we do not want to impute to grammar
-universals that have other sources.
+We are always open to undergraduates who either want to help with current projects or have experiments ro projects of their own that they'd like to implement with our lab.
 
-It has lead me into detailed analysis of topics superficially distant
-from linguistics: the bases for cerebral asymmetries in humans and
-animals, the nature of adult performance systems, the fundamental laws
-of learning abstract systems in humans and animals, group differences in
-cognitive processes (e.g., based on gender, or handedness), the nature
-of visual computational processes that comprise the evolved biological
-substrate for language, the formal (uncaused) components of abstract
-knowledge.
+### Contact us
 
-The unifying thread of all this is the attempt to distill out the true
-linguistic universals.
+For general information about the lab, contact Tom at [tgb@email.arizona.edu](mailto:tgb@email.arizona.edu). If you are interested in a particular project, it's best to refer to the graduate student managing that project ([see info](people)).
 
-### Applied Linguistics and Cognitive Science
-
-The general goal of my applied work is: the application of linguistics
-and cognitive science to improve the human use of language. Many of the
-insights from recent linguistics, psycholinguistics and cognitive
-science offer useful engineering solutions to practical problems.
+If there are any errors in this webpage, please contact Luke at [lukesmith@email.arizona.edu](mailto:lukesmith@email.arizona.edu).

@@ -2,13 +2,13 @@
 
 ## Doctoral Students
 
--   Hicham Assaoui (SLAT)
--   Rachel Brown (Linguistics)
--   Stanley Donahoo (Linguistics)
--   Shannon Grippando (Linguistics)
--   Joshua Meyer (Linguistics)
--   Leah Rice (Linguistics)
--   Luke Smith (Linguistics)
+-   Hicham Assaoui ([hassaoui@email.arizona.edu](mailto:hassaoui@email.arizona.edu))
+-   Rachel Brown ([rachelbrown@email.arizona.edu](mailto:rachelbrown@email.arizona.edu))
+-   Stanley Donahoo ([stanleydonahoo@email.arizona.edu](mailto:stanleydonahoo@email.arizona.edu))
+-   Shannon Grippando ([sgrippando@email.arizona.edu](mailto:sgrippando@email.arizona.edu))
+-   Joshua Meyer ([joshua.richard.meyer@gmail.com](joshua.richard.meyer@gmail.com))
+-   Leah Rice ([lcrice@email.arizona.edu](mailto:lcrice@email.arizona.edu))
+-   Luke Smith ([lukesmith@email.arizona.edu](mailto:lukesmith@email.arizona.edu))
 
 ## Visiting Scholars
 
