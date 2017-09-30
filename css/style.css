@@ -27,7 +27,7 @@ body, html{
 }
 a{
     font-weight: bold;
-    color: forestgreen;
+    color: teal;
     text-decoration:underline;
 }
     a:hover{
@@ -40,7 +40,7 @@ a{
 
 #content{
 	background: #ddddff;
-	color: #333;
+	color: black;
 	margin: 0px 20px 0px 20px;
 	border-style: solid;
 	border-radius: 0px 0px 20px 20px;
