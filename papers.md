@@ -108,9 +108,7 @@ Teaching Experience
     Karin Stromswold, Lisa Lai-Shen Cheng, Heidi Harley, Andrew Wedel,
     James McGilvray, Elly van Gelderen & Thomas G. Bever. 2010. The
     biological nature of human language. *Biolinguisics* 4. pp 4-34.
--   Chan, S.-h., Ryan, T. and Bever, T.G., (2011) Role of the striatum
-    in language: Syntactic and conceptual sequencing. *Brain & Language*
-    (2011), doi:10.1016/j.bandl.2011.11.005
+-   Chan, S.-h., Ryan, T. and Bever, T.G., (2011) Role of the striatum in language: Syntactic and conceptual sequencing. *Brain & Language* (2011), doi:10.1016/j.bandl.2011.11.005 ([pdf](articles/Chan?.Bever.pdf))
 -   Bever, T.G. (2012) Two Lessons from Psycholinguistics for Second
     Language Learning. In Sanz, M. and Gonzales J, (Eds.) *Advances In
     The Sciences Of Language And Their Application To Second Language
@@ -204,9 +202,7 @@ Psychology and Cognitive Science
 -   Bever, T.G. (1974). The psychology of language and structuralist
     investigations of nativism. In G. Harmon, (Ed.), *On Noam Chomsky:
     Critical essays* (pp. 146-164). Anchor Press.
--   Bever, T.G. (1970). The cognitive basis for linguistic structures.
-    In R. Hayes (Ed.), *Cognition and language development* (pp.
-    277-360). New York: Wiley & Sons, Inc.
+-   Bever, T.G. (1970). The cognitive basis for linguistic structures.  In R. Hayes (Ed.), *Cognition and language development* (pp.  277-360). New York: Wiley & Sons, Inc. ([pdf](articles/CBLS_Proofs_TgB.pdf))
 -   Bever, T.G., Fodor, J.A., & Garrett, M. (1968). A formal limitation of associationism. T.R. Dixon & D.L. Horton (Eds.), *Verbal behavior and general behavior theory.* Prentice-Hall, Inc. ([pdf](articles/Bever_Fodor_Garrett2.pdf))
 -   Mehler, J., & Bever, T.G. (1968). The study of competence in
     cognitive psychology. *International Journal of Psychology,* 1968,
@@ -223,8 +219,7 @@ Psychology and Cognitive Science
 -   Bever, T.G., Carrithers, C., Cowart, W., & Townsend, D.J. (1989).  Language processing and familial handedness. In A. Galaburda (Ed.), *From neurons to reading*. Cambridge, MA: MIT Press. ([pdf](articles/Bever&Carrithers,Cowart&Townsend_1989_-From_reading_to_neurons[Galaburda].pdf))
 -   Bever, T.G., Carrithers, C., & Townsend, D.J. (1987). A tale of two brains -or- The sinistral quasimodularity of language. In Proceedings of the Ninth Annual Cognitive Science Society Meetings (pp. 764-773), Lawrence Erlbaum Associates. ([pdf](articles/Bever,Carrithers&Townsend_1987_-A_tale_of_two_brains_OR_the_sinistral_quasimodularity_of_language.pdf))
 -   Bever, T.G. (1983). Cerebral lateralization, cognitive asymmetry, and human consciousness. In E. Perecman and J. Brown (Eds.), *Cognitive processing in the right hemisphere* (19-39). New York: Academic Press, New York. ([pdf](articles/BeverConsciousnessDateless.pdf))
--   Bever, T.G. (1980). Broca and Lashley were right: cerebral dominance is an accident of growth. In D. Kaplan, & N. Chomsky, (Eds.), *Biology and language* (186-232). Cambridge, MA: MIT Press.
--   Kellar, L.A., & Bever, T.G. (1980). Hemispheric asymmetries in the perception of musical intervals as a function of musical experience and family handedness background. *Brain and Language*, 10, 24-38.
+-   Bever, T.G. (1980). Broca and Lashley were right: cerebral dominance is an accident of growth. In D. Kaplan, & N. Chomsky, (Eds.), *Biology and language* (186-232). Cambridge, MA: MIT Press.  -   Kellar, L.A., & Bever, T.G. (1980). Hemispheric asymmetries in the perception of musical intervals as a function of musical experience and family handedness background. *Brain and Language*, 10, 24-38. ([pdf](articles/BrocaLashley.pdf))
 -   Bever, T.G. (1975). Cerebral asymmetries in humans are due to the
     differentiation of two incompatible processes: Holistic and
     analytic. In D. Aaronson, & R. Rieber, R. (Eds.), *Developmental
@@ -252,7 +247,7 @@ Psychology and Cognitive Science
 -   Roitblat, H.L., Scopatz, R.A., & Bever, T.G. (1987). The
     hierarchical representation of three-item sequences. *Animal
     Learning and Behavior,* 15(2), 179-192.
--   Bever, T.G., Straub, R.O., Terrace, H.S., & Townsend, D.J. (1980).  The comparative study of serially integrated behavior in humans and animals. In P. Jusczyk, & R. Klein, R. (Eds.), *The nature of thought: Essays in honor of D.O. Hebb.* Hillsdale, NJ: Lawrence Erlbaum Associates.
+-   Bever, T.G., Straub, R.O., Terrace, H.S., & Townsend, D.J. (1980).  The comparative study of serially integrated behavior in humans and animals. In P. Jusczyk, & R. Klein, R. (Eds.), *The nature of thought: Essays in honor of D.O. Hebb.* Hillsdale, NJ: Lawrence Erlbaum Associates. ([pdf](articles/Bever&Straub&Terrace&Townssend_1983_-Comparative_study_of_serially_integrated_behavior_in_humans_and_animals.pdf))
 -   Terrace, H.S., Petitto, L. A., Sanders, R. J., & Bever, T. G.  (1980). On the grammatical capacity of apes. In K. Nelson (Ed.), Children's Language, Volume 2 Gardner Press, pp. 371-495,
 -   Terrace, H.S., Pettito, L.A., Sanders, R.J., & Bever, T.G. (1979).
     Can an ape create a sentence? *Science*, 206, 891-902.
@@ -322,9 +317,7 @@ Psycholinguistics
 -   Jackson, S.R., Townsend, D.J., and Bever, T.G. (2005) Separating
     similar effects of conjunction and intonation in the resolution of
     lexical ambiguity. *Studia Linguistica* 59(2/3), pp.259
--   Bever, T.G., & Townsend, D.J., (2001). Some sentences on our
-    consciousness of sentences. In R. Dupoux (Ed.), *Language, Brain and
-    Cognitive Development*. Pp. 145-155. Cambridge, MA, MIT Press.
+-   Bever, T.G., & Townsend, D.J., (2001). Some sentences on our consciousness of sentences. In R. Dupoux (Ed.), *Language, Brain and Cognitive Development*. Pp. 145-155. Cambridge, MA, MIT Press. ([pdf](articles/bever&Townsend2001.pdf))
 -   Townsend, D.J., Hoover, M., & Bever, T.G. (2000). Word Monitoring
     Tasks Interact With Levels Of Representation During Speech
     Comprehension, *Journal of Psycholinguistic Research,* 29, 265-274.
@@ -362,9 +355,7 @@ Psycholinguistics
     Sentence-picture verification models as theories of sentence
     comprehension: A critique of Carpenter and Just. *Psychological
     Review*, 83, 310-317.
--   Carroll, J. & Bever, T.G. (1978). Sentence comprehension: a case
-    study in the relation of knowledge and perception. In Carterette &
-    Friedman (Eds.), *Handbook of perception*, Vol. 7, (pp. 299-317).
+-   Carroll, J. & Bever, T.G. (1978). Sentence comprehension: a case study in the relation of knowledge and perception. In Carterette & Friedman (Eds.), *Handbook of perception*, Vol. 7, (pp. 299-317). ([pdf](articles/Carroll&Bever_1978_.pdf))
 -   Carroll, J.M., Tanenhaus, M.K., & Bever, T.G. (1978). The perception
     of relations: the interaction of structural, functional, and
     contextual factors in the segmentation of sentences. In W.J.M.
@@ -433,9 +424,7 @@ Psycholinguistics
 -   Jandreau, S.M., Muncer, S.J., & Bever, T.G. (1986). Improving the
     readability of text with automatic phrase-sensitive formatting.
     *British Journal of Educational Technology*, 17, 128-133.
--   Carrithers, C., & Bever, T.G. (1984). Eye-fixation patterns during
-    reading confirm theories of language comprehension. *Cognitive
-    Science*, 8, 157-172.
+-   Carrithers, C., & Bever, T.G. (1984). Eye-fixation patterns during reading confirm theories of language comprehension. *Cognitive Science*, 8, 157-172. ([pdf](articles/Carrithers&Bever_1984_-Eye-fixation_patterns_during_reading_confirm_theories_of_language_comprehension.pdf))
 -   Muncer, S.J., & Bever, T.G. (1984). Sensitivity to propositional
     units in good reading. *Journal of Psycholinguistic Research,* 13,
     275-279.
@@ -451,8 +440,7 @@ Psycholinguistics
 -   Tan, N., Aiello, R., & Bever, T.G. (1981). Harmonic structure as a
     determinant of melodic organization. *Memory and Cognition*, 9, pp.
     533-539
--   Carroll, J., & Bever, T.G. (1976). Segmentation in cinema
-    perception. *Science*, 191, 1053-1054
+-   Carroll, J., & Bever, T.G. (1976). Segmentation in cinema perception. *Science*, 191, 1053-1054 ([pdf](articles/Carroll_and_Bever_1976_.pdf))
 
 ### LINGUISTICS
 
@@ -465,16 +453,14 @@ Psycholinguistics
     psycholinguistics of unaccusativity
 -   in spanish. In Proceedings of the 1991 Meeting of the New England
     Linguistic Society.
--   Bever, T.G., Straub, K., Shenkman, K., Kim, J.J., & Carrithers, C.
-    (1990) The psychological reality of NP-trace. In Proceedings of the
-    1989 Meeting of the New England Linguistic Society.
+-   Bever, T.G., Straub, K., Shenkman, K., Kim, J.J., & Carrithers, C.  (1990) The psychological reality of NP-trace. In Proceedings of the 1989 Meeting of the New England Linguistic Society. ([pdf](articles/Bever&Straub_1990_-Psychological?reality_of_NP_trace.pdf))
 -   Bever, T.G., & McElree, B. (1988). Empty categories access their antecedents during comprehension. *Linguistic Inquiry*, 19, 35-43. ([pdf](articles/Bever&McElree_1988_-Empty_categories_access_their_antecedents_during_comprehension.pdf))
 -   Bever, T.G. (1984). Linguistics and its relation to other
     disciplines. In E. Machlup (Ed.), *Handbook of information
     sciences,* Wiley, 1984, pp. 158-179.
 -   Carroll, J.M., Bever, T.G., & Pollack, C.R. (1981). The
     non-uniqueness of linguistic intuitions. *Language*, 57, No. 2,
-    368-383.
+    368-383. ([pdf](articles/Carroll,_Bever,_Pollock_1981_.pdf))
 -   Bever T.G., Carroll, J.M., & Hurtig, R. (1976). Analogy or ungrammatical sequences that are utterable and comprehensible are the origins of new grammars in language acquisition and linguistic evolution. In T.G. Bever, J.J. Katz & D.T. Langendoen (Eds.), *An integrated theory of linguistic ability* (pp. 149-182). New York: T.Y. Crowell Press. ([pdf](articles/BeverCarrollHurtig_1976_-Analogy_or_ungrammatical_sequences.pdf))
 -   Bever, T.G. (1975). Functional explanations require independently motivated functional theories. In R. Grossman, J. San & T. Vance (Eds.), *Papers from the parasession on functionalism* (pp.  580-635), Chicago Linguistic Society. Chicago, IL: University of Chicago. ([pdf](articles/Bever_1975_-Functional%20explanations%20require%20independently%20motivated%20functional%20theories.pdf))
 -   Bever, T.G. (1974). The interaction of perception and linguistic structures: a preliminary investigation of neo-functionalism. In T.A. Seboek (Ed.), *Current trends in linguistics* (1159-1233). The Hague: Mouton. ([pdf](articles/Bever_1974_-Interaction_of_perception_and_linguistic_structures_-_a_preliminary_invesigation_of_neofunctionalism.pdf))
@@ -527,8 +513,7 @@ Books
 -   Townsend, D.J., & Bever, T.G. (2004*). Juzi lijie Yanjiu--xiguan yu
     guize de zhenghe.* Qilu Academic Press (a somewhat revised Chinese
     version of Townsend and Bever, 2001).
--   Townsend, D.J., & Bever, T.G. (2001). *Sentence Comprehension.*
-    Cambridge, MA: MIT Press.
+-   Townsend, D.J., & Bever, T.G. (2001). *Sentence Comprehension.* Cambridge, MA: MIT Press.
 -   Bever, T.G., Carroll, J.M., & Miller, L.A. (Eds.) (1984). *Talking minds: The study of language in the cognitive sciences.* Cambridge, MA: MIT Press. ([pdf](articles/Bever_1975_talking_mindsINTRO.pdf))
 -   H.L. Roitblat, T.G. Bever, & H.S. Terrace (Eds.) (1984). *Animal
     cognition*. Hillsdale, NJ: Lawrence Erlbaum Associates.
@@ -693,6 +678,5 @@ Invited Presentations 2009 – 2015
     Italian Technical Institute - Genoa Italy. .
 -   *The hand that rocks the cradle rules the mind*: University of
     Ferrara, Italy .
--   *Three implications of the work of Carol Chomsky*: Conference:
-    Complex language from simple input. MIT. .
+-   *Three implications of the work of Carol Chomsky*: Conference: Complex language from simple input. MIT. . ([pdf](articles/CAROLCHOMSKYPAPERNYI.pdf))
 
