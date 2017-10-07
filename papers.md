@@ -139,16 +139,12 @@ Teaching Experience
 -   Hancock, R. and Bever, T.G. (2013) Genetic factors and normal
     variation in the organization of language. *Biolinguistics.* Vol. 7,
     pp. 75-95.
--   Bever, T.G., (1970, 2013) The Cognitive Basis for Linguistic
-    Structures. In Laka, I. ,Sanz, M. and Tanenhaus, M. (Eds),
-    *Cognition and Language: enduring themes*. Oxford University Press.
+-   Bever, T.G., (1970, 2013) The Cognitive Basis for Linguistic Structures. In Laka, I. ,Sanz, M. and Tanenhaus, M. (Eds), *Cognition and Language: enduring themes*. Oxford University Press. ([pdf](articles/Bever_1970_2013_Cognitive_Basis_for_Linguistic_Structures.pdf))
 -   O'Bryan, E. L., Folli, R., Harley, H., & Bever, T. G. (2013) Event
     structure affects the comprehension of structurally ambiguous
     sentences. in Roberto Almeida & Christina Manouilidou (Eds) *Verb
     concepts*. Oxford University Press
--   D'Ausilio, A., Berry, J., Bever, T.G., and Fadiga, L. (2013)
-    Listener-speaker articulatory distance predicts the degree of motor
-    contribution to speech perception. *Cerebral Cortex*.
+-   D'Ausilio, A., Berry, J., Bever, T.G., and Fadiga, L. (2013) Listener-speaker articulatory distance predicts the degree of motor contribution to speech perception. *Cerebral Cortex*. ([pdf](articles/BartoliEtAl2013.pdf))
 -   Sun, Xiaoxia, Hancock R. & Bever, T.G (2014) Is Subject Relatives
     Preference Universal? – ERP evidence from Chinese relative clause
     processing. *Chinese Journal of Applied Linguistics*
@@ -271,10 +267,7 @@ Psychology and Cognitive Science
 -   Bever, T.G., & Chiarello, R.J. (1974). Cerebral dominance in
     musicians and nonmusicians. *Science,* 185, 137-139. Reprinted as a
     "classic article" in *The Journal of Neuropsychiatry*, 2008
--   Bever, T.G. (1971). The nature of cerebral dominance in speech
-    behaviour of the child and adult. In E. Ingram & R. Huxley (Eds.),
-    *Mechanisms of language acquisition* (pp 231-261). New York:
-    Academic Press.
+-   Bever, T.G. (1971). The nature of cerebral dominance in speech behaviour of the child and adult. In E. Ingram & R. Huxley (Eds.), *Mechanisms of language acquisition* (pp 231-261). New York: Academic Press. ([pdf](articles/Bever_1971_-Nature_of_cerebral_dominance_in_speech_behavior_of_the_child_&_adult.pdf))
 
 ### Comparative
 
@@ -460,22 +453,18 @@ Psycholinguistics
 -   Bever, T.G., Garrett, M.F., & Hurtig, R. (1973). The interaction of
     perceptual processes and ambiguous sentences. *Memory and
     Cognition*, 1, 277-386.
--   Bever, T.G. (1972). The integrated study of language behaviour. In
+-   Bever, T.G. (1972). The integrated study of language behaviour. In ([pdf](articles/Bever_1972_-Integrated_study_of_language_behavior.pdf))
     Morton, J. (Ed.), Language: *Biological and social factors*
     (159-206). Logos Press.
 -   Savin, H.B., & Bever, T.G. (1970). The nonperceptual reality of the
     phoneme. *Journal of Verbal Learning and Verbal Behavior,* 9,
     295-302.
--   Carey, P., Mehler, J., & Bever, T.G. (1970). Judging the veracity of
-    an ambiguous sentence. *Journal of Verbal Learning and Verbal
-    Behavior,* 9, 243-254.
+-   Carey, P., Mehler, J., & Bever, T.G. (1970). Judging the veracity of an ambiguous sentence. *Journal of Verbal Learning and Verbal Behavior,* 9, 243-254. ([pdf](articles/Ambiguous_Sentences_Verification.pdf))
 -   Mehler, J., Carey, P., & Bever, T.G. (1970). When do we compute all
     the interpretations of ambiguous sentences? In G. D'Arcais, G. & W.
     Levelt (Eds.), *Advances in psycholinguistics* (pp. 201-259). North
     Holland Publications.
--   Abrams, K., & Bever, T.G. (1969). Syntactic structure modifies
-    attention during speech perception and recognition. *Quarterly
-    Journal of Experimental Psychology*, 21, 280-290.
+-   Abrams, K., & Bever, T.G. (1969). Syntactic structure modifies attention during speech perception and recognition. *Quarterly Journal of Experimental Psychology*, 21, 280-290. ([pdf](articles/1969_syntactic.pdf))
 -   Bever, T.G., Kirk, R., & Lackner, J. (1969). An autonomic reflection
     of syntactic structure. *Neuropsychologia,* 7, 23-28.
 -   Bever, T.G., Lackner, J.R., & Kirk, R. (1969). The underlying
@@ -484,15 +473,11 @@ Psycholinguistics
 -   Bever, T.G., Lackner, J.R., & Stolz, W. (1969). Transitional
     probability is not a general mechanism for the segmentation of
     speech. *Journal of Experimental Psychology*, 79, 387-394.
--   Bever, T.G. (1968). Associations to stimulus-response theories of
-    language. in T.R. Dixon & D.L. Horton (Eds.), *Verbal behavior and
-    general behavior theory* (478-494). Prentice-Hall, Inc.
+-   Bever, T.G. (1968). Associations to stimulus-response theories of language. in T.R. Dixon & D.L. Horton (Eds.), *Verbal behavior and general behavior theory* (478-494). Prentice-Hall, Inc. ([pdf](articles/Bever_1968_-Associations_to_stimulus-response_theories_of_language.pdf))
 -   Fodor, J.A., Garrett, M., & Bever, T.G. (1968). Some syntactic
     determinants of sentential complexity, II: Verb structure.
     *Perception and Psychophysics,* 3, 453-461.
--   Foss, D., Bever, T.G., & Silver, M. (1968). The comprehension and
-    verification of ambiguous sentences. *Perception and Psychophysics,*
-    4, pp. 304-306.
+-   Foss, D., Bever, T.G., & Silver, M. (1968). The comprehension and verification of ambiguous sentences. *Perception and Psychophysics,* 4, pp. 304-306. ([pdf](articles/1968_comprehension.pdf))
 -   MacKay, D.G., & Bever, T.G. (1967). In search of ambiguity.
     *Perception and Psychophysics*, 2, 193-200.
 -   Garrett, M., Bever, T.G., & Fodor, J.A. (1966). The active use of
@@ -608,9 +593,7 @@ Psycholinguistics
     their empirical validity. In Jacobs and Rosenbaum (Eds.), *Readings
     in English syntax*, Blaisdell. Also in French in a special issue of
     Languages, 1970, 3-50.
--   Bever, T.G. (1970). The influence of speech performance on
-    linguistic structure. In W. Levelt & G. Flores d'Arcais (Eds.),
-    *Advances in psycholinguistics* (pp 21-50), North-Holland.
+-   Bever, T.G. (1970). The influence of speech performance on linguistic structure. In W. Levelt & G. Flores d'Arcais (Eds.), *Advances in psycholinguistics* (pp 21-50), North-Holland. ([pdf](articles/Bever_1970_-Influence_of_speech_performance_on_linguistic_structure.pdf))
 -   Bever, T.G., & Ross, J.R. (1965). Underlying structures in
     discourse. *Proceedings of the Congress on Computer-Related Semantic
     Analysis,* Las Vegas.
