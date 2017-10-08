@@ -5,11 +5,11 @@ Thomas G. Bever
 
 [comment]: <>  [CV](tgb_cv_jan16.docx).
 
-Education
-=========
+[comment]: <> Education
+[comment]: <> =========
 
-<> -   Harvard College – A.B., 1961
-<> -   Massachusetts Institute of Technology – Ph.D. 1967
+[comment]: <> -   Harvard College – A.B., 1961
+[comment]: <> -   Massachusetts Institute of Technology – Ph.D. 1967
 
 Honors and Awards
 =================
