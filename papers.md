@@ -3,7 +3,7 @@
 Thomas G. Bever
 ===============
 
-[CV](tgb_cv_jan16.docx).
+[comment]: <>  [CV](tgb_cv_jan16.docx).
 
 Education
 =========
