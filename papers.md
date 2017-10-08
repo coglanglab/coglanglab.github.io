@@ -69,73 +69,35 @@ Teaching Experience
 2008–2016 Publication Activity
 ------------------------------
 
--   Bever, T.G., (2008) The canonical form constraint: language
-    acquisition via a general theory of learning. In Guo et al,
-    *Cross-linguistic approaches to the psychology of language.* (Oxford
-    University Press) pp.475-492
--   Piatelli-Palmarini, M., Hancock, R. & Bever, T.G., (2008) Comentary
-    *Behavioral and Brain Sciences*, 31:530-531 Cambridge University
-    Press
--   Lin, C-J. C., and Bever, T. G. (2008). Subject preference in the
-    processing of relative clauses in Chinese. In *Proceedings of the
-    25th West Coast Conference on Formal Linguistics,* ed. Donald
-    Baumer, David Montero, and Michael Scanlon, 254-260. Somerville, MA:
-    Cascadilla Proceedings Project.
--   Hauser, M. and Bever, T.G. (2008) Biolinguistics and the Science of
-    Language, *SCIENCE:* 322 14, pp. 1057 – 1059.
--   Bever, T.G. (2009). The individual and universal in language. In
-    Piatelli, M. *Of minds and language: the Basque country encounter
-    with Noam Chomsky.* Oxford University Press. Pp. 278-295.
--   Bever, T.G. (2009). "Biolinguistics today and Platonism yesterday".  In *[Time and Again](http://www.benjamins.nl/cgi-bin/t_bookview.cgi?bookid=LA%20135),* Lewis, William D., Simin Karimi, Heidi Harley and Scott O. Farrar (eds.), pp. 227–232. ([pdf](articles/bever_2009_TerryFestschrift.pdf))
--   Bever, T. G., (2009) Minimalist Behaviorism: the role of the individual in explaining language universals. In Christiansen, M.  Collins & Edelman, S. (Eds.) *Language Universals* (Oxford University Press). Pp. 270-298 ([pdf](articles/Cornell_UniversalsfinalRS.pdf))
--   Hancock, R., and Bever, T.G. (2009), The study of syntactic cycles as an experimental science. In E. vanGelderen Ed., *Syntactic Change.* John Benjimans, pp.215-241 ([pdf](articles/Hancock&BeverCYCLES.pdf))
--   Bever, T.G., (2009) All language comprehension is a psycholinguistic guessing game: explaining the still small voice. In, Anders, P.  (Ed), *Issues in the present and future of reading.* Pp. 249-281 Routledge ([pdf](articles/BEVERGoodmanpaperRs.pdf))
--   Williams, Clay and Bever, T.G. (2010) Chinese Character Decoding: a
-    Semantic Bias. *Journal of Reading and Writing,* 23, pp 589-695
--   Lin, Chien-Jer Charles & Bever, Thomas G. (2010). "Garden Path in
-    the Processing of Head-Final Relative Clauses." In Hiroko Hashimoto,
-    Jerry Packard, & Yuki Hirose (eds.) *Processing and Producing
-    Head-Final Structures.* pp. 314-342. Springer Verlag.
--   Bever, T.G., and Peoppel, D. (2010) Analysis by synthesis: a current
-    analysis and synthesis. *Biolinguistics* 4.2-3, pp 172-199
--   Di Sciullo, Anna Maria, Massimo Piattelli-Palmarini, Kenneth Wexler,
-    Robert C. Berwick, Cedric Boeckx, Lyle Jenkins, Juan Uriagereka,
-    Karin Stromswold, Lisa Lai-Shen Cheng, Heidi Harley, Andrew Wedel,
-    James McGilvray, Elly van Gelderen & Thomas G. Bever. 2010. The
-    biological nature of human language. *Biolinguisics* 4. pp 4-34.
--   Chan, S.-h., Ryan, T. and Bever, T.G., (2011) Role of the striatum in language: Syntactic and conceptual sequencing. *Brain & Language* (2011), doi:10.1016/j.bandl.2011.11.005 ([pdf](articles/Chan?.Bever.pdf)) ([pdf](articles/ChanEtAl2013.pdf))
--   Bever, T.G. (2012) Two Lessons from Psycholinguistics for Second
-    Language Learning. In Sanz, M. and Gonzales J, (Eds.) *Advances In
-    The Sciences Of Language And Their Application To Second Language
-    Teaching.* Cambridge Scholars Press. Pp. 89-107
--   Bever, T.G., (2012) Three Aspects of the Relation between Lexical and Syntactic Knowledge. in Berwick, R. and Piatelli-Palmarini, (Eds.), *Rich Language from Poor Inputs.* Oxford University Press pp. 184-193 ([pdf](articles/Bever_for_Carol_volume.pdf))
--   Bever, T.G (2013, 2015), The biolinguistics of language universals: The next years. In [Montserrat Sanz](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Montserrat+Sanz&search-alias=books&text=Montserrat+Sanz&sort=relevancerank), [Itziar Laka](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Itziar+Laka&search-alias=books&text=Itziar+Laka&sort=relevancerank), [Michael K.  Tanenhaus](http://www.amazon.com/Michael-K.-Tanenhaus/e/B00J5YVECK/ref=dp_byline_cont_book_3) (Eds,) *Language Down the Garden Path: The Cognitive and Biological Basis of Linguistic Structures*, Oxford University Press. Pp.  235-405. ([pdf](articles/Chapter_22._Bever_TGB.pdf))
--   Hancock, R. and Bever, T.G. (2013) Genetic factors and normal variation in the organization of language. *Biolinguistics.* Vol. 7, pp. 75-95. ([pdf](articles/HancockBeverBiolinguistics.pdf))
--   Bever, T.G., (1970, 2013) The Cognitive Basis for Linguistic Structures. In Laka, I. ,Sanz, M. and Tanenhaus, M. (Eds), *Cognition and Language: enduring themes*. Oxford University Press. ([pdf](articles/Bever_1970_2013_Cognitive_Basis_for_Linguistic_Structures.pdf))
--   O'Bryan, E. L., Folli, R., Harley, H., & Bever, T. G. (2013) Event
-    structure affects the comprehension of structurally ambiguous
-    sentences. in Roberto Almeida & Christina Manouilidou (Eds) *Verb
-    concepts*. Oxford University Press
--   D'Ausilio, A., Berry, J., Bever, T.G., and Fadiga, L. (2013) Listener-speaker articulatory distance predicts the degree of motor contribution to speech perception. *Cerebral Cortex*. ([pdf](articles/BartoliEtAl2013.pdf))
--   Sun, Xiaoxia, Hancock R. & Bever, T.G (2014) Is Subject Relatives
-    Preference Universal? – ERP evidence from Chinese relative clause
-    processing. *Chinese Journal of Applied Linguistics*
--   Nicholas, C., & Bever, T.G. (2016) The Aesthetics of Visual Form:
-    The Golden Section Rectangle Enhances Depth Perception. *Language
-    and Cognition.*
+
+-   Sammler, D., Hancock, R., Friederici, A. and Bever, T.G., (In preparation) Genetic factors in the cerebral asymmetries for language and music.
+-   Hancock, R., Friederici, A., Lohman, G., Chan, S-h, Ryan, L. and Bever, T.G. (In preparation) Low frequency networks for conceptual vs. syntactic sequencing and familial sinistrality.
+-   Lin, C and Bever, T. G. (Under requested revision) Chinese is no exception: Subject-extracted relative clauses are easier to process across languages. (*Cognition*).
+-   Bever, T.G., Medeiros, D. & Piattelli-palmarini, M. (in press) Many important language universals are not reducible to processing or cognition. *Brain and Behavioral Sciences*.
 -   Bever, T.G. (In press). The unity of consciousness and the consciousness of unity. In Almeida, R. and Gleitman, L. The mind and its thoughts. Oxford University Press. ([pdf](articles/fodorschriftSept6.pdf))
--   Bever, T.G., Medeiros, D. & Piattelli-palmarini, M. (in press) Many
-    important language universals are not reducible to processing or
-    cognition. *Brain and Behavioral Sciences*.
--   Lin, C and Bever, T. G. (Under requested revision) Chinese is no
-    exception: Subject-extracted relative clauses are easier to process
-    across languages. (*Cognition*).
--   Hancock, R., Friederici, A., Lohman, G., Chan, S-h, Ryan, L. and
-    Bever, T.G. (In preparation) Low frequency networks for conceptual
-    vs. syntactic sequencing and familial sinistrality.
--   Sammler, D., Hancock, R., Friederici, A. and Bever, T.G., (In
-    preparation) Genetic factors in the cerebral asymmetries for
-    language and music.
+-   Nicholas, C., & Bever, T.G. (2016) The Aesthetics of Visual Form: The Golden Section Rectangle Enhances Depth Perception. *Language and Cognition.*
+-   Sun, Xiaoxia, Hancock R. & Bever, T.G (2014) Is Subject Relatives Preference Universal? – ERP evidence from Chinese relative clause processing. *Chinese Journal of Applied Linguistics*
+-   D'Ausilio, A., Berry, J., Bever, T.G., and Fadiga, L. (2013) Listener-speaker articulatory distance predicts the degree of motor contribution to speech perception. *Cerebral Cortex*. ([pdf](articles/BartoliEtAl2013.pdf))
+-   O'Bryan, E. L., Folli, R., Harley, H., & Bever, T. G. (2013) Event structure affects the comprehension of structurally ambiguous sentences. in Roberto Almeida & Christina Manouilidou (Eds) *Verb concepts*. Oxford University Press
+-   Bever, T.G., (1970, 2013) The Cognitive Basis for Linguistic Structures. In Laka, I. ,Sanz, M. and Tanenhaus, M. (Eds), *Cognition and Language: enduring themes*. Oxford University Press. ([pdf](articles/Bever_1970_2013_Cognitive_Basis_for_Linguistic_Structures.pdf))
+-   Hancock, R. and Bever, T.G. (2013) Genetic factors and normal variation in the organization of language. *Biolinguistics.* Vol. 7, pp. 75-95. ([pdf](articles/HancockBeverBiolinguistics.pdf))
+-   Bever, T.G (2013, 2015), The biolinguistics of language universals: The next years. In [Montserrat Sanz](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Montserrat+Sanz&search-alias=books&text=Montserrat+Sanz&sort=relevancerank), [Itziar Laka](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Itziar+Laka&search-alias=books&text=Itziar+Laka&sort=relevancerank), [Michael K.  Tanenhaus](http://www.amazon.com/Michael-K.-Tanenhaus/e/B00J5YVECK/ref=dp_byline_cont_book_3) (Eds,) *Language Down the Garden Path: The Cognitive and Biological Basis of Linguistic Structures*, Oxford University Press. Pp.  235-405. ([pdf](articles/Chapter_22._Bever_TGB.pdf))
+-   Bever, T.G., (2012) Three Aspects of the Relation between Lexical and Syntactic Knowledge. in Berwick, R. and Piatelli-Palmarini, (Eds.), *Rich Language from Poor Inputs.* Oxford University Press pp. 184-193 ([pdf](articles/Bever_for_Carol_volume.pdf))
+-   Bever, T.G. (2012) Two Lessons from Psycholinguistics for Second Language Learning. In Sanz, M. and Gonzales J, (Eds.) *Advances In The Sciences Of Language And Their Application To Second Language Teaching.* Cambridge Scholars Press. Pp. 89-107
+-   Chan, S.-h., Ryan, T. and Bever, T.G., (2011) Role of the striatum in language: Syntactic and conceptual sequencing. *Brain & Language* (2011), doi:10.1016/j.bandl.2011.11.005 ([pdf](articles/Chan?.Bever.pdf)) ([pdf](articles/ChanEtAl2013.pdf))
+-   Di Sciullo, Anna Maria, Massimo Piattelli-Palmarini, Kenneth Wexler, Robert C. Berwick, Cedric Boeckx, Lyle Jenkins, Juan Uriagereka, Karin Stromswold, Lisa Lai-Shen Cheng, Heidi Harley, Andrew Wedel, James McGilvray, Elly van Gelderen & Thomas G. Bever. 2010. The biological nature of human language. *Biolinguisics* 4. pp 4-34.
+-   Bever, T.G., and Peoppel, D. (2010) Analysis by synthesis: a current analysis and synthesis. *Biolinguistics* 4.2-3, pp 172-199
+-   Lin, Chien-Jer Charles & Bever, Thomas G. (2010). "Garden Path in the Processing of Head-Final Relative Clauses." In Hiroko Hashimoto, Jerry Packard, & Yuki Hirose (eds.) *Processing and Producing Head-Final Structures.* pp. 314-342. Springer Verlag.
+-   Williams, Clay and Bever, T.G. (2010) Chinese Character Decoding: a Semantic Bias. *Journal of Reading and Writing,* 23, pp 589-695
+-   Bever, T.G., (2009) All language comprehension is a psycholinguistic guessing game: explaining the still small voice. In, Anders, P.  (Ed), *Issues in the present and future of reading.* Pp. 249-281 Routledge ([pdf](articles/BEVERGoodmanpaperRs.pdf))
+-   Hancock, R., and Bever, T.G. (2009), The study of syntactic cycles as an experimental science. In E. vanGelderen Ed., *Syntactic Change.* John Benjimans, pp.215-241 ([pdf](articles/Hancock&BeverCYCLES.pdf))
+-   Bever, T. G., (2009) Minimalist Behaviorism: the role of the individual in explaining language universals. In Christiansen, M.  Collins & Edelman, S. (Eds.) *Language Universals* (Oxford University Press). Pp. 270-298 ([pdf](articles/Cornell_UniversalsfinalRS.pdf))
+-   Bever, T.G. (2009). "Biolinguistics today and Platonism yesterday".  In *[Time and Again](http://www.benjamins.nl/cgi-bin/t_bookview.cgi?bookid=LA%20135),* Lewis, William D., Simin Karimi, Heidi Harley and Scott O. Farrar (eds.), pp. 227–232. ([pdf](articles/bever_2009_TerryFestschrift.pdf))
+-   Bever, T.G. (2009). The individual and universal in language. In Piatelli, M. *Of minds and language: the Basque country encounter with Noam Chomsky.* Oxford University Press. Pp. 278-295.
+-   Hauser, M. and Bever, T.G. (2008) Biolinguistics and the Science of Language, *SCIENCE:* 322 14, pp. 1057 – 1059.
+-   Lin, C-J. C., and Bever, T. G. (2008). Subject preference in the processing of relative clauses in Chinese. In *Proceedings of the 25th West Coast Conference on Formal Linguistics,* ed. Donald Baumer, David Montero, and Michael Scanlon, 254-260. Somerville, MA: Cascadilla Proceedings Project.
+-   Piatelli-Palmarini, M., Hancock, R. & Bever, T.G., (2008) Comentary *Behavioral and Brain Sciences*, 31:530-531 Cambridge University Press
+-   Bever, T.G., (2008) The canonical form constraint: language acquisition via a general theory of learning. In Guo et al, *Cross-linguistic approaches to the psychology of language.* (Oxford University Press) pp.475-492
 
 Patents 2008-2016
 -----------------
