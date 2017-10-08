@@ -11,60 +11,47 @@ Thomas G. Bever
 [comment]: <> -   Harvard College – A.B., 1961
 [comment]: <> -   Massachusetts Institute of Technology – Ph.D. 1967
 
-Honors and Awards
-=================
+[comment]: <> Honors and Awards
+[comment]: <> =================
 
--   NIH Predoctoral Fellowship - 1962-1964
--   Elected to Harvard Society of Fellows - 1964-1967
--   NSF Faculty Fellowship - 1974-1977 (Summers)
--   Guggenheim Fellowship - 1976/77
--   Fellow, Center for Advanced Study in the Behavioral Sciences -
-    1984/85
--   Chinese Society for Research in Foreign Language Teaching Award.
-    (Given every 2 years), 2004
--   The Compassionate Friends Award – 2005 - "Compassionate employer of
-    the year"
+[comment]: <> -   NIH Predoctoral Fellowship - 1962-1964
+[comment]: <> -   Elected to Harvard Society of Fellows - 1964-1967
+[comment]: <> -   NSF Faculty Fellowship - 1974-1977 (Summers)
+[comment]: <> -   Guggenheim Fellowship - 1976/77
+[comment]: <> -   Fellow, Center for Advanced Study in the Behavioral Sciences -
+    [comment]: <> 1984/85
+[comment]: <> -   Chinese Society for Research in Foreign Language Teaching Award.
+    [comment]: <> (Given every 2 years), 2004
+[comment]: <> -   The Compassionate Friends Award – 2005 - "Compassionate employer of the year"
 -   The Alexander von Humboldt Senior Research Prize (Germany) – 2009
--   Visiting Fellow, the Max Planck Institute for Cognition and
-    Language, Leipzig: Summers 2010/11/12
--   IkerBasque Senior Fellowship Award (Spain) – 2010-12
--   Regents' Professor, University of Arizona, 2011 – present
+[comment]: <> -   Visiting Fellow, the Max Planck Institute for Cognition and Language, Leipzig: Summers 2010/11/12
+[comment]: <> -   IkerBasque Senior Fellowship Award (Spain) – 2010-12
+[comment]: <> -   Regents' Professor, University of Arizona, 2011 – present
 
-Teaching Experience
-===================
+[comment]: <> Teaching Experience
+[comment]: <> ===================
 
--   Assistant Professor, Rockefeller University, 1967-8, Associate
-    Professor, 1969-70
--   Professor of Linguistics and Psychology, Columbia University,
-    1970-1986
--   Pulse Professor of Psychology, University of Rochester, 1985-1995
--   Professor of Linguistics, University of Rochester, 1985-1995
--   Professor of Linguistics, Neuroscience, Cognitive Science,
-    Psychology, Education, BIO5. University of Arizona, 1995 - present
--   Visiting Professor, USC, Spring 2005
--   Visiting Professor, University of Leipzig, Fall 2005
--   Visiting Professor, University of California, Irvine, Spring 2006
--   Professor, CUNY summer linguistics program: St Petersburg
-    University, Summer, 2011
--   Visiting Professor, Vitoria University, Summer, 2011
--   Visiting Professor, Carleton University (Ottawa), Spring 2013.
--   Administrative-Academic Activities
--   Founder and Associate Editor, Cognition, 1973-2004.
--   Founder/Head, Columbia Interdisciplinary Ph.D. Program in Psychology
-    and Linguistics, 1973-1986
--   Columbia College Departmental Representative (The advisor for
-    undergraduate college majors) 1971-1974
--   Columbia School of General Studies Representative (The advisor for
-    adult undergraduate majors), 1975-1985: Head, Language and Cognition
-    Program, University of Rochester, 1986-1990; 1992-1994
--   Director, Cognitive Science Program, University of Rochester,
-    1991-1992
--   Founder/Director, Center for the Sciences of Language, University of
-    Rochester, 1988-1995
--   Head, Department of Linguistics, University of Arizona, 1998-2002
--   Director, CUNY Sentence Processing Conferences, 1998, 2005
--   Elected U of A university-wide member, committee on
-    Interdepartmental Programs, 2007-2010
+[comment]: <> -   Assistant Professor, Rockefeller University, 1967-8, Associate Professor, 1969-70
+[comment]: <> -   Professor of Linguistics and Psychology, Columbia University, 1970-1986
+[comment]: <> -   Pulse Professor of Psychology, University of Rochester, 1985-1995
+[comment]: <> -   Professor of Linguistics, University of Rochester, 1985-1995
+[comment]: <> -   Professor of Linguistics, Neuroscience, Cognitive Science, Psychology, Education, BIO5. University of Arizona, 1995 - present
+[comment]: <> -   Visiting Professor, USC, Spring 2005
+[comment]: <>-   Visiting Professor, University of Leipzig, Fall 2005
+[comment]: <>-   Visiting Professor, University of California, Irvine, Spring 2006
+[comment]: <>-   Professor, CUNY summer linguistics program: St Petersburg University, Summer, 2011
+[comment]: <>-   Visiting Professor, Vitoria University, Summer, 2011
+[comment]: <>-   Visiting Professor, Carleton University (Ottawa), Spring 2013.
+[comment]: <>-   Administrative-Academic Activities
+[comment]: <>-   Founder and Associate Editor, Cognition, 1973-2004.
+[comment]: <>-   Founder/Head, Columbia Interdisciplinary Ph.D. Program in Psychology and Linguistics, 1973-1986
+[comment]: <>-   Columbia College Departmental Representative (The advisor for undergraduate college majors) 1971-1974
+[comment]: <>-   Columbia School of General Studies Representative (The advisor for adult undergraduate majors), 1975-1985: Head, Language and Cognition Program, University of Rochester, 1986-1990; 1992-1994
+[comment]: <>-   Director, Cognitive Science Program, University of Rochester, 1991-1992
+[comment]: <>-   Founder/Director, Center for the Sciences of Language, University of Rochester, 1988-1995
+[comment]: <>-   Head, Department of Linguistics, University of Arizona, 1998-2002
+[comment]: <>-   Director, CUNY Sentence Processing Conferences, 1998, 2005
+[comment]: <>-   Elected U of A university-wide member, committee on Interdepartmental Programs, 2007-2010
 
 2008–2016 Publication Activity
 ------------------------------
