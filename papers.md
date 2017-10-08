@@ -8,8 +8,8 @@ Thomas G. Bever
 Education
 =========
 
--   Harvard College – A.B., 1961
--   Massachusetts Institute of Technology – Ph.D. 1967
+<> -   Harvard College – A.B., 1961
+<> -   Massachusetts Institute of Technology – Ph.D. 1967
 
 Honors and Awards
 =================
