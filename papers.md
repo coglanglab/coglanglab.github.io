@@ -1,57 +1,5 @@
 # Papers
 
-Thomas G. Bever
-===============
-
-[comment]: <>  [CV](tgb_cv_jan16.docx).
-
-[comment]: <> Education
-[comment]: <> =========
-
-[comment]: <> -   Harvard College – A.B., 1961
-[comment]: <> -   Massachusetts Institute of Technology – Ph.D. 1967
-
-[comment]: <> Honors and Awards
-[comment]: <> =================
-
-[comment]: <> -   NIH Predoctoral Fellowship - 1962-1964
-[comment]: <> -   Elected to Harvard Society of Fellows - 1964-1967
-[comment]: <> -   NSF Faculty Fellowship - 1974-1977 (Summers)
-[comment]: <> -   Guggenheim Fellowship - 1976/77
-[comment]: <> -   Fellow, Center for Advanced Study in the Behavioral Sciences -
-    [comment]: <> 1984/85
-[comment]: <> -   Chinese Society for Research in Foreign Language Teaching Award.
-    [comment]: <> (Given every 2 years), 2004
-[comment]: <> -   The Compassionate Friends Award – 2005 - "Compassionate employer of the year"
--   The Alexander von Humboldt Senior Research Prize (Germany) – 2009
-[comment]: <> -   Visiting Fellow, the Max Planck Institute for Cognition and Language, Leipzig: Summers 2010/11/12
-[comment]: <> -   IkerBasque Senior Fellowship Award (Spain) – 2010-12
-[comment]: <> -   Regents' Professor, University of Arizona, 2011 – present
-
-[comment]: <> Teaching Experience
-[comment]: <> ===================
-
-[comment]: <> -   Assistant Professor, Rockefeller University, 1967-8, Associate Professor, 1969-70
-[comment]: <> -   Professor of Linguistics and Psychology, Columbia University, 1970-1986
-[comment]: <> -   Pulse Professor of Psychology, University of Rochester, 1985-1995
-[comment]: <> -   Professor of Linguistics, University of Rochester, 1985-1995
-[comment]: <> -   Professor of Linguistics, Neuroscience, Cognitive Science, Psychology, Education, BIO5. University of Arizona, 1995 - present
-[comment]: <> -   Visiting Professor, USC, Spring 2005
-[comment]: <>-   Visiting Professor, University of Leipzig, Fall 2005
-[comment]: <>-   Visiting Professor, University of California, Irvine, Spring 2006
-[comment]: <>-   Professor, CUNY summer linguistics program: St Petersburg University, Summer, 2011
-[comment]: <>-   Visiting Professor, Vitoria University, Summer, 2011
-[comment]: <>-   Visiting Professor, Carleton University (Ottawa), Spring 2013.
-[comment]: <>-   Administrative-Academic Activities
-[comment]: <>-   Founder and Associate Editor, Cognition, 1973-2004.
-[comment]: <>-   Founder/Head, Columbia Interdisciplinary Ph.D. Program in Psychology and Linguistics, 1973-1986
-[comment]: <>-   Columbia College Departmental Representative (The advisor for undergraduate college majors) 1971-1974
-[comment]: <>-   Columbia School of General Studies Representative (The advisor for adult undergraduate majors), 1975-1985: Head, Language and Cognition Program, University of Rochester, 1986-1990; 1992-1994
-[comment]: <>-   Director, Cognitive Science Program, University of Rochester, 1991-1992
-[comment]: <>-   Founder/Director, Center for the Sciences of Language, University of Rochester, 1988-1995
-[comment]: <>-   Head, Department of Linguistics, University of Arizona, 1998-2002
-[comment]: <>-   Director, CUNY Sentence Processing Conferences, 1998, 2005
-[comment]: <>-   Elected U of A university-wide member, committee on Interdepartmental Programs, 2007-2010
 
 2008–2016 Publication Activity
 ------------------------------
@@ -62,10 +10,10 @@ Thomas G. Bever
 -   Lin, C and Bever, T. G. (Under requested revision) Chinese is no exception: Subject-extracted relative clauses are easier to process across languages. (*Cognition*).
 -   Bever, T.G., Medeiros, D. & Piattelli-palmarini, M. (in press) Many important language universals are not reducible to processing or cognition. *Brain and Behavioral Sciences*.
 -   Bever, T.G. (In press). The unity of consciousness and the consciousness of unity. In Almeida, R. and Gleitman, L. The mind and its thoughts. Oxford University Press. ([pdf](articles/fodorschriftSept6.pdf))
--   Nicholas, C., & Bever, T.G. (2016) The Aesthetics of Visual Form: The Golden Section Rectangle Enhances Depth Perception. *Language and Cognition.*
+-   Nicholas, C., & Bever, T.G. (2016) The Aesthetics of Visual Form: The Golden Section Rectangle Enhances Depth Perception. *Language and Cognition.* ([pdf](articles/Nicholas&Bever_2016_.pdf))
 -   Sun, Xiaoxia, Hancock R. & Bever, T.G (2014) Is Subject Relatives Preference Universal? – ERP evidence from Chinese relative clause processing. *Chinese Journal of Applied Linguistics*
 -   D'Ausilio, A., Berry, J., Bever, T.G., and Fadiga, L. (2013) Listener-speaker articulatory distance predicts the degree of motor contribution to speech perception. *Cerebral Cortex*. ([pdf](articles/BartoliEtAl2013.pdf))
--   O'Bryan, E. L., Folli, R., Harley, H., & Bever, T. G. (2013) Event structure affects the comprehension of structurally ambiguous sentences. in Roberto Almeida & Christina Manouilidou (Eds) *Verb concepts*. Oxford University Press
+-   O'Bryan, E. L., Folli, R., Harley, H., & Bever, T. G. (2013) Event structure affects the comprehension of structurally ambiguous sentences. in Roberto Almeida & Christina Manouilidou (Eds) *Verb concepts*. Oxford University Press ([pdf](articles/OBryanetal_VerbStructure2013.pdf))
 -   Bever, T.G., (1970, 2013) The Cognitive Basis for Linguistic Structures. In Laka, I. ,Sanz, M. and Tanenhaus, M. (Eds), *Cognition and Language: enduring themes*. Oxford University Press. ([pdf](articles/Bever_1970_2013_Cognitive_Basis_for_Linguistic_Structures.pdf))
 -   Hancock, R. and Bever, T.G. (2013) Genetic factors and normal variation in the organization of language. *Biolinguistics.* Vol. 7, pp. 75-95. ([pdf](articles/HancockBeverBiolinguistics.pdf))
 -   Bever, T.G (2013, 2015), The biolinguistics of language universals: The next years. In [Montserrat Sanz](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Montserrat+Sanz&search-alias=books&text=Montserrat+Sanz&sort=relevancerank), [Itziar Laka](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Itziar+Laka&search-alias=books&text=Itziar+Laka&sort=relevancerank), [Michael K.  Tanenhaus](http://www.amazon.com/Michael-K.-Tanenhaus/e/B00J5YVECK/ref=dp_byline_cont_book_3) (Eds,) *Language Down the Garden Path: The Cognitive and Biological Basis of Linguistic Structures*, Oxford University Press. Pp.  235-405. ([pdf](articles/Chapter_22._Bever_TGB.pdf))
@@ -74,7 +22,7 @@ Thomas G. Bever
 -   Chan, S.-h., Ryan, T. and Bever, T.G., (2011) Role of the striatum in language: Syntactic and conceptual sequencing. *Brain & Language* (2011), doi:10.1016/j.bandl.2011.11.005 ([pdf](articles/Chan?.Bever.pdf)) ([pdf](articles/ChanEtAl2013.pdf))
 -   Di Sciullo, Anna Maria, Massimo Piattelli-Palmarini, Kenneth Wexler, Robert C. Berwick, Cedric Boeckx, Lyle Jenkins, Juan Uriagereka, Karin Stromswold, Lisa Lai-Shen Cheng, Heidi Harley, Andrew Wedel, James McGilvray, Elly van Gelderen & Thomas G. Bever. 2010. The biological nature of human language. *Biolinguisics* 4. pp 4-34.
 -   Bever, T.G., and Peoppel, D. (2010) Analysis by synthesis: a current analysis and synthesis. *Biolinguistics* 4.2-3, pp 172-199
--   Lin, Chien-Jer Charles & Bever, Thomas G. (2010). "Garden Path in the Processing of Head-Final Relative Clauses." In Hiroko Hashimoto, Jerry Packard, & Yuki Hirose (eds.) *Processing and Producing Head-Final Structures.* pp. 314-342. Springer Verlag.
+-   Lin, Chien-Jer Charles & Bever, Thomas G. (2010). "Garden Path in the Processing of Head-Final Relative Clauses." In Hiroko Hashimoto, Jerry Packard, & Yuki Hirose (eds.) *Processing and Producing Head-Final Structures.* pp. 314-342. Springer Verlag. ([pdf](articles/Lin&Bever-GardenPath.pdf))
 -   Williams, Clay and Bever, T.G. (2010) Chinese Character Decoding: a Semantic Bias. *Journal of Reading and Writing,* 23, pp 589-695
 -   Bever, T.G., (2009) All language comprehension is a psycholinguistic guessing game: explaining the still small voice. In, Anders, P.  (Ed), *Issues in the present and future of reading.* Pp. 249-281 Routledge ([pdf](articles/BEVERGoodmanpaperRs.pdf))
 -   Hancock, R., and Bever, T.G. (2009), The study of syntactic cycles as an experimental science. In E. vanGelderen Ed., *Syntactic Change.* John Benjimans, pp.215-241 ([pdf](articles/Hancock&BeverCYCLES.pdf))
@@ -89,20 +37,10 @@ Thomas G. Bever
 Patents 2008-2016
 -----------------
 
--   Bever, T. G., & Robbart, J. ( 2010). *System and method of
-    formatting text according to phrasing*. U.S. Patent No. 7,743,324.
-    Washington, DC: U.S. Patent and Trademark Office.
--   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2012)
-    System, plug-in, and method for improving text composition by
-    modifying character prominence according to assigned character
-    information measures, Patent, 8,755,629
--   Bever, T. G., & Robbart, J. (2012). *System and method of formatting
-    text*. US Patent No. 8,209,601. Washington, DC: U. S. Patent and
-    Trademark Office
--   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2014)
-    General system, plug-in, and method for improving text composition
-    by modifying character prominence according to assigned character
-    information measures, Patent, 8,306,356 *Spring 2014*
+-   Bever, T. G., & Robbart, J. ( 2010). *System and method of formatting text according to phrasing*. U.S. Patent No. 7,743,324.  Washington, DC: U.S. Patent and Trademark Office.
+-   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2012) System, plug-in, and method for improving text composition by modifying character prominence according to assigned character information measures, Patent, 8,755,629
+-   Bever, T. G., & Robbart, J. (2012). *System and method of formatting text*. US Patent No. 8,209,601. Washington, DC: U. S. Patent and Trademark Office
+-   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2014) General system, plug-in, and method for improving text composition by modifying character prominence according to assigned character information measures, Patent, 8,306,356 *Spring 2014*
 
 Publications 1963–2007
 ======================
@@ -110,38 +48,23 @@ Publications 1963–2007
 Psychology and Cognitive Science
 --------------------------------
 
--   Bever, T.G. (1992). The demons and the beast - Modular and nodular
-    kinds of knowledge. In R. Ronan & N. Sharkey (Eds.), *Connectionist
-    approaches to natural language processing*. Lawrence Erlbaum (UK).
+-   Bever, T.G. (1992). The demons and the beast - Modular and nodular kinds of knowledge. In R. Ronan & N. Sharkey (Eds.), *Connectionist approaches to natural language processing*. Lawrence Erlbaum (UK).
 -   Bever, T.G. (1988). The psychological reality of grammar: a student's eye view of cognitive science. In W. Hirst (Ed.), *The making of cognitive science* Cambridge University Press. ([pdf](articles/Bever_1988_-Psychological_reality_of_grammar-A_students'_eye_view_of_cognitive_science.pdf))
--   Lachter, J., & Bever, T.G. (1988). The relation between linguistic
-    structure and associative theories of language learning--A
-    constructive critique of connectionist learning models. *Cognition*,
-    28, 195-247.
--   Bever, T.G. (1987). The aesthetic basis for cognitive structures.
-    In W. Brand & R. Harnish, (Eds.), *The representation of knowledge
-    and belief* (pp. 314-356). University of Arizona Press.
+-   Lachter, J., & Bever, T.G. (1988). The relation between linguistic structure and associative theories of language learning--A constructive critique of connectionist learning models. *Cognition*, 28, 195-247.
+-   Bever, T.G. (1987). The aesthetic basis for cognitive structures.  In W. Brand & R. Harnish, (Eds.), *The representation of knowledge and belief* (pp. 314-356). University of Arizona Press. ([pdf](articles/Lasher,Carroll&Bever_1983_-The_cognitive_basis_of_aesthetic_experience.pdf))
 -   Bever, T.G. (1984). The road from behaviorism to rationalism. In H.L. Roitblat, T.G. Bever, & H.S. Terrace (Eds.) *Animal cognition* (pp. 61-73). Hillsdale, NJ: Lawrence Erlbaum Associates. ([pdf](articles/bever_1982_RoadtoRationalism.pdf))
 -   Bever, T.G. (1982). Some implications of the non-specific bases of language. In L. Gleitman, L. and E. Wanner (Eds.), *Language development - the state of the art* (pp. 429-449). Cambridge University Press. ([pdf](articles/bever_1982_NonspecificBases.pdf))
 -   Katz, J.J., & Bever, T.G. (1976). The fall and rise of empiricism.  In T.G. Bever, J.J. Katz, & D.T. Langendoen (Eds.), *An integrated theory of linguistic ability.* New York: T.Y. Crowell Press. ([pdf](articles/Katz&Bever_1976_-The_rise_and_fall_of_empiricism.pdf))
--   Bever, T.G. (1975). Some theoretical and empirical issues that arise
-    if we insist on distinguishing language and thought. In D. Aaronson
-    & F. Rieber (Eds.), *Developmental psycholinguistics and
-    communication disorders.* New York Academy of Science, 263.
--   Bever, T.G. (1974). The psychology of language and structuralist
-    investigations of nativism. In G. Harmon, (Ed.), *On Noam Chomsky:
-    Critical essays* (pp. 146-164). Anchor Press.
+-   Bever, T.G. (1975). Some theoretical and empirical issues that arise if we insist on distinguishing language and thought. In D. Aaronson & F. Rieber (Eds.), *Developmental psycholinguistics and communication disorders.* New York Academy of Science, 263.
+-   Bever, T.G. (1974). The psychology of language and structuralist investigations of nativism. In G. Harmon, (Ed.), *On Noam Chomsky: Critical essays* (pp. 146-164). Anchor Press.
 -   Bever, T.G. (1970). The cognitive basis for linguistic structures.  In R. Hayes (Ed.), *Cognition and language development* (pp.  277-360). New York: Wiley & Sons, Inc. ([pdf](articles/CBLS_Proofs_TgB.pdf))
 -   Bever, T.G., Fodor, J.A., & Garrett, M. (1968). A formal limitation of associationism. T.R. Dixon & D.L. Horton (Eds.), *Verbal behavior and general behavior theory.* Prentice-Hall, Inc. ([pdf](articles/Bever_Fodor_Garrett2.pdf))
--   Mehler, J., & Bever, T.G. (1968). The study of competence in
-    cognitive psychology. *International Journal of Psychology,* 1968,
-    3(4), 273-280.
--   Mehler, J., & Bever, T.G. (1968). Quantification, conservation, and
-    nativism: *Science*, 162, 979-981.
--   *Cerebral Dominance and Neurolinguistics*
--   Townsend, D.J., Carrithers, C., & Bever, T.G. (2001). Familial
-    Handedness and Access to Words, Meaning, and Syntax during Sentence
-    Comprehension. *Brain and Language,* 78, 308-331.
+-   Mehler, J., & Bever, T.G. (1968). The study of competence in cognitive psychology. *International Journal of Psychology,* 1968, 3(4), 273-280.
+-   Mehler, J., & Bever, T.G. (1968). Quantification, conservation, and nativism: *Science*, 162, 979-981.
+
+###   *Cerebral Dominance and Neurolinguistics*
+
+-   Townsend, D.J., Carrithers, C., & Bever, T.G. (2001). Familial Handedness and Access to Words, Meaning, and Syntax during Sentence Comprehension. *Brain and Language,* 78, 308-331.
 -   LaMendola, N. and Bever, T.G. (1997). Peripheral and Cerebral Asymmetries in the Rat. *Science*, Vol. 278, 17 October 1997, pp.483-486. ([pdf](articles/LaMendola&Bever_1997_-Peripheral_and_cerebral_asymmetries_in_the_rat.pdf))
 -   Bever, T.G., Carrithers, C., Cowart, W., & Townsend, D.J. (1989).  Language processing and familial handedness. In A. Galaburda (Ed.), *From neurons to reading*. Cambridge, MA: MIT Press. ([pdf](articles/Bever&Carrithers,Cowart&Townsend_1989_-From_reading_to_neurons[Galaburda].pdf))
 -   Bever, T.G., Carrithers, C., & Townsend, D.J. (1987). A tale of two brains -or- The sinistral quasimodularity of language. In Proceedings of the Ninth Annual Cognitive Science Society Meetings (pp. 764-773), Lawrence Erlbaum Associates. ([pdf](articles/Bever,Carrithers&Townsend_1987_-A_tale_of_two_brains_OR_the_sinistral_quasimodularity_of_language.pdf))
@@ -164,10 +87,7 @@ Psychology and Cognitive Science
 ### Comparative
 
 -   Bever, Thomas and Montalbetti, Mario. (2002). Noam's Ark. *Science,* VOL 298, 1565-1566. ([pdf](articles/Bever&Montalbetti_2002_-Noam's_Ark.pdf))
--   O'Connor, K.N., Roitblat, H.L., & Bever, T.G. (1983). Auditory
-    sequence complexity and hemispheric asymmetry of function in rats.
-    In H.L. Roitblat (Ed.), *Studies in animal behavior*. Hillsdale, NJ:
-    Lawrence Erlbaum Assoc.
+-   O'Connor, K.N., Roitblat, H.L., & Bever, T.G. (1983). Auditory sequence complexity and hemispheric asymmetry of function in rats.  In H.L. Roitblat (Ed.), *Studies in animal behavior*. Hillsdale, NJ: Lawrence Erlbaum Assoc. ([pdf](articles/O'Connor,Roitblatt&Bever_1983_-Auditory_sequence_complexity_and_hemispheric_asymmetry_in_rats.pdf))
 -   Roitblat, H.L., Bever, T.G., Harley, H.E., & Helweg, D.A. (1991).
     Online choice and the representation of serially structured stimuli.
     *Journal of Experimental Psychology: Animal Behavior Processes*. Vol
@@ -193,9 +113,7 @@ Psychology and Cognitive Science
 -   Ross, D. S., & Bever, T. G. (2004). The time course for language
     acquisition in biologically distinct populations: Evidence from deaf
     individuals. *Brain & Language,* Vol. 89, 115-121.
--   Mintz, T., Newport, E., & Bever, T.G. (2002). The distributional
-    structure of grammatical categories in speech to young children.
-    *Journal of* *Cognitive Science*. Vol. 26/4, pp 393-425.
+-   Mintz, T., Newport, E., & Bever, T.G. (2002). The distributional structure of grammatical categories in speech to young children.  *Journal of* *Cognitive Science*. Vol. 26/4, pp 393-425. ([pdf](articles/Mintz_et_al.pdf))
 -   Aslin, Woodward, LaMendola & Bever (1996). Models of word
     segmentation in fluent maternal speech to infants. In J.L. Morgan
     & K. Demuth (eds.), *Signal to Syntax*. Mahwah, NJ: LEA (pp.
@@ -204,38 +122,20 @@ Psychology and Cognitive Science
     of lexical categories in motherese. (1995). In the proceedings of
     the New England Linguistic Society.
 -   Bever, T.G. (1992). The Logical and Extrinsic Sources of Modularity in M. Gunnar & M. Maratsos (Eds.) Modularity and Constraints in Language and Cognition. Vol. 25 of the Minnesota Symposia on Child Psychology, 1992. Earlbaum. ([pdf](articles/bever_1992_Modularity.pdf))
--   Moon, C., Bever, B.T., & Fifer, W.P. (1992) Canonical and
-    noncanonical syllable discrimination by 2-day-old infants. *Journal
-    of Child Language.* [*Volume
-    19*](http://journals.cambridge.org/action/displayJournal?jid=JCL&volumeId=19&bVolume=y#loc19),
-    [*Issue
-    01*](http://journals.cambridge.org/action/displayIssue?jid=JCL&volumeId=19&seriesId=0&issueId=01),
-    pp 1-17
+-   Moon, C., Bever, B.T., & Fifer, W.P. (1992) Canonical and noncanonical syllable discrimination by 2-day-old infants. *Journal of Child Language.* [*Volume 19*](http://journals.cambridge.org/action/displayJournal?jid=JCL&volumeId=19&bVolume=y#loc19), [*Issue 01*](http://journals.cambridge.org/action/displayIssue?jid=JCL&volumeId=19&seriesId=0&issueId=01), pp 1-17 ([pdf](articles/Moon&Bever_1992_-Canonical_and?non-canonical_syllable_discrimination_by_two-day_old_infants.pdf))
 -   Bever, T.G., & Hansen, R.E. (1988). The induction of mental structures while learning to use symbolic systems. In Proceedings of the Tenth Annual Meeting of The Cognitive Science Society, Hillsdale, NJ: Lawrence Erlbaum Assoc. ([pdf](articles/Bever&Hansen_1980_-Induction_of_mental_structures_while_learning_to_use_symbolic_systems.pdf))
 -   Gergely, G., & Bever, T.G. (1986). Relatedness intuitions and the mental representation of causative verbs in adults and children.  *Cognition,* 23, 211-277. ([pdf](articles/Gergely&Bever_1986_.pdf))
 -   Bever, T.G. (1982). Regression in the service of development. In Bever et al. (Eds.), *Regression in child development* (pp 153-188).  Hillsdale, NJ: Lawrence Erlbaum. ([pdf](articles/bever_1982_RegressionInService.pdf))
--   Slobin, D.I., & Bever, T.G. (1982). Children use canonical sentence
-    schemas: A crosslinguistic study of word order and inflections.
-    *Cognition*, 12, pp. 229-265.
+-   Slobin, D.I., & Bever, T.G. (1982). Children use canonical sentence schemas: A crosslinguistic study of word order and inflections.  *Cognition*, 12, pp. 229-265.
 -   Bever, T.G. (1981). Normal acquisition processes explain the critical period for language learning. In K.C. Diller (Ed.), *Individual differences and universals in language learning aptitude* (pp. 176-198). Rowley, MA: Newbury House Pub., Inc. ([pdf](articles/bever_1981_CriticalPeriod.pdf))
--   Townsend, D.J., Ottaviano, D. & Bever, T.G. (1979). Immediate Memory
-    for Words from Main and Subordinate Clauses at Different Age Levels.
-    *Journal of Psycholinguistic Research*, 8(1), pp. 83-101, 1979.
+-   Townsend, D.J., Ottaviano, D. & Bever, T.G. (1979). Immediate Memory for Words from Main and Subordinate Clauses at Different Age Levels.  *Journal of Psycholinguistic Research*, 8(1), pp. 83-101, 1979. ([pdf](articles/OttavioanoTownsendBever.pdf))
 -   Bever, T.G. (1975). Psychologically real grammar emerges because of its role in language acquisition. In D.P. Dato (Ed.), *Developmental psycholinguistics: Theory and applications* (pp. 63-75). Georgetown University Round Table on Languages and Linguistics. ([pdf](articles/Bever_1975_Psychogrammar_.pdf))
--   Pertz, D.L., & Bever, T.G. (1975). Sensitivity to phonological
-    universals in children and adolescents. *Language*, 51, 149-162.
--   Bever, T.G. (1970). The comprehension and memory of sentences with
-    temporal relations. In S. Levelt, S.& G. Flores d'Arcais (Eds.),
-    *Advances in psycholinguistics* (pp. 312-316). North Holland.
+-   Pertz, D.L., & Bever, T.G. (1975). Sensitivity to phonological universals in children and adolescents. *Language*, 51, 149-162.
+-   Bever, T.G. (1970). The comprehension and memory of sentences with temporal relations. In S. Levelt, S.& G. Flores d'Arcais (Eds.), *Advances in psycholinguistics* (pp. 312-316). North Holland.
 -   Bever, T.G., Mehler, J., & Epstein, J. (1968). What children do in spite of what they know. *Science*, 162, 921-924. ([pdf](articles/Beveretal1968.pdf))
--   Mehler, J., & Bever, T.G. (1967). Cognitive capacity of very young
-    children. *Science*, 141, 141-142.
+-   Mehler, J., & Bever, T.G. (1967). Cognitive capacity of very young children. *Science*, 141, 141-142.
 -   Bever, T.G., Fodor, J.A., & Weksel, W. (1965). On the acquisition of syntax: a critique of contextual generalization. *Psychological Review,* 72, 467-482. ([pdf](articles/beverEtAlBraine.pdf))
--   Bullowa, M., Jones, L.B., & Bever, T.G. (1964). The development from
-    vocal to verbal behavior in children. (Presented at SSRC Conference
-    on First Language Learning, 1961). In U. Bellugi & R. Brown (Eds.),
-    *Monographs of the Society for Research in Child Development,* 29,
-    101-11
+-   Bullowa, M., Jones, L.B., & Bever, T.G. (1964). The development from vocal to verbal behavior in children. (Presented at SSRC Conference on First Language Learning, 1961). In U. Bellugi & R. Brown (Eds.), *Monographs of the Society for Research in Child Development,* 29, 101-11
 
 Psycholinguistics
 -----------------
@@ -312,8 +212,7 @@ Psycholinguistics
     determinants of sentential complexity, II: Verb structure.
     *Perception and Psychophysics,* 3, 453-461.
 -   Foss, D., Bever, T.G., & Silver, M. (1968). The comprehension and verification of ambiguous sentences. *Perception and Psychophysics,* 4, pp. 304-306. ([pdf](articles/1968_comprehension.pdf))
--   MacKay, D.G., & Bever, T.G. (1967). In search of ambiguity.
-    *Perception and Psychophysics*, 2, 193-200.
+-   MacKay, D.G., & Bever, T.G. (1967). In search of ambiguity.  *Perception and Psychophysics*, 2, 193-200. ([pdf](articles/Mackay&Bever.pdf))
 -   Garrett, M., Bever, T.G., & Fodor, J.A. (1966). The active use of grammar in speech perception. *Perception and Psychophysics,* 1, 30-32. ([pdf](articles/Garrett_Bever_Fodor_1966_The_Active_Use_of_Grammar_in_Speech_Perception.pdf))
 -   Fodor, J.A., & Bever, T.G. (1965). The psychological reality of linguistic segments. *Journal of Verbal Learning and Verbal Behavior,* 4, 414 - 420. ([pdf](articles/FodorBeverClicks.pdf))
 
@@ -342,8 +241,7 @@ Psycholinguistics
 -   Bever, T.G., & Bower, T.G.R. (1970). How to read without listening.
     In M. Lester, M. (Ed.), *Readings in applied transformation
     grammar,* Holt, Rinehart, and Winston, 305-314.
--   Mehler, J., Bever, T.G., & Carey, P. (1967). What we look at when we
-    read. *Perception and Psychophysics*, 2, 213-218.
+-   Mehler, J., Bever, T.G., & Carey, P. (1967). What we look at when we read. *Perception and Psychophysics*, 2, 213-218. ([pdf](articles/Mehler&Bever1967.pdf))
 -   *Aesthetics*
 -   Bever, T.G. (1988). A cognitive theory of emotion and aesthetics in music. *Psychomusicology*, 7, 165-175. ([pdf](articles/Bever_1988_A_cognitive_theory_of_music.pdf))
 -   Lasher, M.D., Carroll, J.M., & Bever, T.G. (1983). The cognitive
@@ -379,10 +277,7 @@ Psycholinguistics
     don't know about mirrors.
 -   In D. Cohen (Ed.), *Explaining linguistic phenomena* (173-200). New
     York: Hemisphere Publishing Corporation.
--   Langendoen, D.T., & Bever, T.G. (1973). Can a not unhappy man be
-    called a not sad one? In S.R. Anderson & P. Kiparsky (Eds.), *A
-    festschrift for Morris Halle*, (392-409). New York: Holt, Rinehart
-    and Winston, Inc.
+-   Langendoen, D.T., & Bever, T.G. (1973). Can a not unhappy man be called a not sad one? In S.R. Anderson & P. Kiparsky (Eds.), *A festschrift for Morris Halle*, (392-409). New York: Holt, Rinehart and Winston, Inc. ([pdf](articles/NotUnhappyPerson.pdf))
 -   Bever, T.G. (1972). The limits of intuition. *Foundations of
     Language*, 8, 411-412.
 -   Bever, T.G., & Langendoen, T. (1972). The interaction of perception and grammar in linguistic change. In R. Stockwell & R. MacCaulay (Eds.), *Historical linguistics in the perspective of transformational theory* (32-95), Indiana University Press. ([pdf](articles/Bever_and_Langendoen_in_Stockwell.pdf))
@@ -403,7 +298,7 @@ Psycholinguistics
     Indo-European E/O ablaut. *Quarterly Progress Report*, R.L.E., MIT.
 -   Bever, T.G. (1963). The E/O ablaut in Old English. *Quarterly
     Progress Report,* R.L.E., MIT.
--   Bever, T.G. (1963). Theoretical implications of Bloomfield's
+-   Bever, T.G. (1963). Theoretical implications of Bloomfield's ([pdf](articles/menomini_bever1967_o.pdf))
     'Menomini Morphophonemics'. *Quarterly Progress Report*, R.L.E., MIT
     Press.
 -   SCIENCE AND SOCIETY
