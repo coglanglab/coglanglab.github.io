@@ -1,6 +1,6 @@
 # Rachel Brown's research
 
-<img src="images/rachel.png" width="250" float="right" align="right" padding="10px">
+<img src="images/rachel.jpg" width="250" float="right" align="right" padding="10px">
 
 [Personal Website](http://www.rachelbrownlinguistics.com/) 
 
