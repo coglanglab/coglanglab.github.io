@@ -83,10 +83,12 @@ h1,h2,h3,h4,h5,h6 {
 	width: 70%;
 	margin: auto;
 }
-    #navigation li{
+    #navigation ul li{
         float:left;
         clear:none;
         list-style:none;
+	width: 70%;
+	margin: auto;
     }
     #navigation li a{
         color:#fff;
