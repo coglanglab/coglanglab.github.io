@@ -79,6 +79,10 @@ h1,h2,h3,h4,h5,h6 {
     list-style:none;
     text-align: center;
 }
+#navigration ul {
+	width: 70%;
+	margin: auto;
+}
     #navigation li{
         float:left;
         clear:none;
