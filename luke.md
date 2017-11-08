@@ -4,6 +4,6 @@
 
 [luke@lukesmith.xyz](mailto:luke@lukesmith.xyz)
 
-<img src="images/luke.jpg" width="250" float="right" align="right" padding="10px">
+<img src="images/luke.jpg" height="250" float="right" align="right" padding="10px">
 
 Focuses: **Neural optimization** -- **Prosodic syntax** -- **Game Theory**
