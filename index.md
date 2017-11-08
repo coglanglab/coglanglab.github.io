@@ -10,7 +10,7 @@ The Language and Cognition Lab at the University of Arizona focuses on the core 
 
 See [Projects](projects) for information about different ongoing projects, most of which are led by individual graduate students.
 
-We are always open to undergraduates who either want to help with current projects or have experiments ro projects of their own that they'd like to implement with our lab.
+We are always open to undergraduates who either want to help with current projects or have experiments or projects of their own that they'd like to implement with our lab.
 
 ### Contact us
 
