@@ -1,9 +1,7 @@
 # Papers
 
 
-2008–2016 Publication Activity
-------------------------------
-
+## Recent Papers (Since 2008)
 
 -   Sammler, D., Hancock, R., Friederici, A. and Bever, T.G., (In preparation) Genetic factors in the cerebral asymmetries for language and music.
 -   Hancock, R., Friederici, A., Lohman, G., Chan, S-h, Ryan, L. and Bever, T.G. (In preparation) Low frequency networks for conceptual vs. syntactic sequencing and familial sinistrality.
@@ -34,19 +32,9 @@
 -   Piatelli-Palmarini, M., Hancock, R. & Bever, T.G., (2008) Comentary *Behavioral and Brain Sciences*, 31:530-531 Cambridge University Press
 -   Bever, T.G., (2008) The canonical form constraint: language acquisition via a general theory of learning. In Guo et al, *Cross-linguistic approaches to the psychology of language.* (Oxford University Press) pp.475-492
 
-Patents 2008-2016
------------------
+## Papers Before 2008
 
--   Bever, T. G., & Robbart, J. ( 2010). *System and method of formatting text according to phrasing*. U.S. Patent No. 7,743,324.  Washington, DC: U.S. Patent and Trademark Office.
--   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2012) System, plug-in, and method for improving text composition by modifying character prominence according to assigned character information measures, Patent, 8,755,629
--   Bever, T. G., & Robbart, J. (2012). *System and method of formatting text*. US Patent No. 8,209,601. Washington, DC: U. S. Patent and Trademark Office
--   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2014) General system, plug-in, and method for improving text composition by modifying character prominence according to assigned character information measures, Patent, 8,306,356 *Spring 2014*
-
-Publications 1963–2007
-======================
-
-Psychology and Cognitive Science
---------------------------------
+### Psychology and Cognitive Science
 
 -   Bever, T.G. (1992). The demons and the beast - Modular and nodular kinds of knowledge. In R. Ronan & N. Sharkey (Eds.), *Connectionist approaches to natural language processing*. Lawrence Erlbaum (UK).
 -   Bever, T.G. (1988). The psychological reality of grammar: a student's eye view of cognitive science. In W. Hirst (Ed.), *The making of cognitive science* Cambridge University Press. ([pdf](articles/Bever_1988_-Psychological_reality_of_grammar-A_students'_eye_view_of_cognitive_science.pdf))
@@ -62,7 +50,7 @@ Psychology and Cognitive Science
 -   Mehler, J., & Bever, T.G. (1968). The study of competence in cognitive psychology. *International Journal of Psychology,* 1968, 3(4), 273-280.
 -   Mehler, J., & Bever, T.G. (1968). Quantification, conservation, and nativism: *Science*, 162, 979-981.
 
-###   *Cerebral Dominance and Neurolinguistics*
+###   Cerebral Dominance and Neurolinguistics
 
 -   Townsend, D.J., Carrithers, C., & Bever, T.G. (2001). Familial Handedness and Access to Words, Meaning, and Syntax during Sentence Comprehension. *Brain and Language,* 78, 308-331.
 -   LaMendola, N. and Bever, T.G. (1997). Peripheral and Cerebral Asymmetries in the Rat. *Science*, Vol. 278, 17 October 1997, pp.483-486. ([pdf](articles/LaMendola&Bever_1997_-Peripheral_and_cerebral_asymmetries_in_the_rat.pdf))
@@ -335,8 +323,16 @@ Books
     Prediction and control in modern society.* Andover, Mass.:Warner
     Publications, Inc.
 
-Patents (prior to 2008)
------------------------
+## Patents
+
+### Since 2008
+
+-   Bever, T. G., & Robbart, J. ( 2010). *System and method of formatting text according to phrasing*. U.S. Patent No. 7,743,324.  Washington, DC: U.S. Patent and Trademark Office.
+-   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2012) System, plug-in, and method for improving text composition by modifying character prominence according to assigned character information measures, Patent, 8,755,629
+-   Bever, T. G., & Robbart, J. (2012). *System and method of formatting text*. US Patent No. 8,209,601. Washington, DC: U. S. Patent and Trademark Office
+-   Bever, T.G, Nicholas, C. Jandreau J., Lamendola C, Hancock R. (2014) General system, plug-in, and method for improving text composition by modifying character prominence according to assigned character information measures, Patent, 8,306,356 *Spring 2014*
+
+### Before 2008
 
 -   Bever, T. G., & Robbart, J. (Filed July 13, 2000/Issued June 27,
     2006). *System and method for formatting text according to
