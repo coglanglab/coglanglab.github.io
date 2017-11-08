@@ -1,6 +1,6 @@
 # Stanley Donahoo
 
-![Stanley](stanley.png)
+![Stanley](images/stan.png)
 
 Stanley Donahoo’s research is broadly concerned with how language is
 represented in the mind/brain, and how this process is informed by

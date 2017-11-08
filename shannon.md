@@ -1,6 +1,6 @@
 # Shannon Grippando's research
 
-![Shannon](shannon.png)
+![Shannon](images/shannon.png)
 
 [sgrippando@email.arizona.edu](mailto:sgrippando@email.arizona.edu)
 
