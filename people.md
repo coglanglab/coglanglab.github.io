@@ -2,13 +2,13 @@
 
 ## Doctoral Students
 
--   Hicham Assaoui ([hassaoui@email.arizona.edu](mailto:hassaoui@email.arizona.edu))
--   Rachel Brown ([rachelbrown@email.arizona.edu](mailto:rachelbrown@email.arizona.edu))
--   Stanley Donahoo ([stanleydonahoo@email.arizona.edu](mailto:stanleydonahoo@email.arizona.edu))
--   Shannon Grippando ([sgrippando@email.arizona.edu](mailto:sgrippando@email.arizona.edu))
--   Joshua Meyer ([joshua.richard.meyer@gmail.com](joshua.richard.meyer@gmail.com))
--   Leah Rice ([lcrice@email.arizona.edu](mailto:lcrice@email.arizona.edu))
--   Luke Smith ([lukesmith@email.arizona.edu](mailto:lukesmith@email.arizona.edu))
+-   [Hicham Assaoui](hicham.md) ([hassaoui@email.arizona.edu](mailto:hassaoui@email.arizona.edu))
+-   [Rachel Brown](rachel.md) ([rachelbrown@email.arizona.edu](mailto:rachelbrown@email.arizona.edu))
+-   [Stanley Donahoo](stanley.md) ([stanleydonahoo@email.arizona.edu](mailto:stanleydonahoo@email.arizona.edu))
+-   [Shannon Grippando](shannon.md) ([sgrippando@email.arizona.edu](mailto:sgrippando@email.arizona.edu))
+-   [Joshua Meyer](josh.md) ([joshua.richard.meyer@gmail.com](joshua.richard.meyer@gmail.com))
+-   [Leah Rice](leah.md) ([lcrice@email.arizona.edu](mailto:lcrice@email.arizona.edu))
+-   [Luke Smith](luke.md) ([lukesmith@email.arizona.edu](mailto:lukesmith@email.arizona.edu))
 
 ## Visiting Scholars
 
