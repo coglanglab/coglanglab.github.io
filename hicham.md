@@ -1,5 +1,7 @@
 # Hicham Assaoui's research
 
+![Hicham](hicham.png)
+
 [hassaoui@email.arizona.edu](hassaoui@email.arizona.edu)
 
 Hicham is currently researching the sentential/discourse processing and interpretation of certain anaphoric constructions in Arabic. The purpose of this research is to understand how non-native learners of Arabic keep track of and resolve the relationship between anaphors and their antecedents. Put simply, an anaphor is a cohesive element in the sentence that connects current information with previous discourse.

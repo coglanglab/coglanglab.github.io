@@ -1,3 +1,7 @@
+# Leah Rice
+
+![Leah](leah.png)
+
 Leah’s research involves linking current syntactic theory with the
 cognitive neuroscience of language. Current studies are probing the
 processing units during language comprehension and testing whether

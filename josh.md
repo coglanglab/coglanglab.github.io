@@ -1,5 +1,7 @@
 # Josh Meyer's research
 
+![Josh](josh.png)
+
 Developing any kind of human language technology (HLT) typically requires a large amount of data from spoken and/or written corpora.  However, for most of the world’s languages these resources are not currently available.
 
 Creating these resources is a time-consuming and expensive endeavor, requiring research assistants who are both natively fluent in the target language and have some technical training.

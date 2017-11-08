@@ -1,5 +1,7 @@
 # Shannon Grippando's research
 
+![Shannon](shannon.png)
+
 [sgrippando@email.arizona.edu](mailto:sgrippando@email.arizona.edu)
 
 Shannon Grippando’s research focuses on the intersection of spoken language and written language. Broadly: how does learning to read and write alter speech patterns and the organization of language in the brain? More specifically, he is currently investigating how the number of graphemes in an orthographic representation can affect speech duration across various writing systems (including English and Japanese).
