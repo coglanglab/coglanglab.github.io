@@ -79,16 +79,10 @@ h1,h2,h3,h4,h5,h6 {
     list-style:none;
     text-align: center;
 }
-#navigration ul {
-	width: 70%;
-	margin: auto;
-}
-    #navigation ul li{
+    #navigation li{
         float:left;
         clear:none;
         list-style:none;
-	width: 70%;
-	margin: auto;
     }
     #navigation li a{
         color:#fff;
@@ -112,7 +106,7 @@ p {
 }
 
 li {
-	padding: 2px 2px 2px 2px;
+	padding: 2px 2px 4px 2px;
 }
 
 /* ----- HEADINGS ----- */
