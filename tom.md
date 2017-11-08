@@ -2,7 +2,7 @@
 
 ## Professor of Linguistics, Psychology, Cognitive Science &amp; Neuroscience
 
-<img src="images/tgb.jpg" alt="alt text" width="250" padding="10px">
+<img src="images/tgb.jpg" alt="alt text" align="center"  width="250" padding="10px">
 
 [CV](dox/tgb_cv_jan16.docx)
 
