@@ -6,7 +6,7 @@
 
 The Language and Cognition Lab at the University of Arizona focuses on the core questions in cognitive science through the psycholinguistic and neurological study of language. The lab is principly managed by Regents' Professor Tom Bever (right).
 
-See [Projects](projects) for information about different ongoing projects, most of which are led by individual graduate students.
+For current projects, check out the pages of individual lab members on the [People](people.md) page.
 
 We are always open to undergraduates who either want to help with current projects or have experiments or projects of their own that they'd like to implement with our lab.
 
