@@ -4,6 +4,8 @@
 
 <img src="images/josh.png" width="250" float="right" align="right" padding="10px">
 
+Focuses: **Computational linguistics** -- **Corpus linguistics** -- **Kyrgyz** -- **Understudied language** -- **Speech technology**
+
 Developing any kind of human language technology (HLT) typically requires a large amount of data from spoken and/or written corpora.  However, for most of the world’s languages these resources are not currently available.
 
 Creating these resources is a time-consuming and expensive endeavor, requiring research assistants who are both natively fluent in the target language and have some technical training.

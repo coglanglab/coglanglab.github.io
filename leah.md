@@ -2,6 +2,8 @@
 
 <img src="images/leah.jpg" width="250" float="right" align="right" padding="10px">
 
+Focuses: **Psycholinguistics** -- **Neuroscience** -- **Syntax** -- **Phase theory**
+
 Leah’s research involves linking current syntactic theory with the
 cognitive neuroscience of language. Current studies are probing the
 processing units during language comprehension and testing whether

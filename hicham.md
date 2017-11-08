@@ -4,6 +4,8 @@
 
 [hassaoui@email.arizona.edu](hassaoui@email.arizona.edu)
 
+Focuses: **Arabic** -- **Syntax** -- **Anaphora** -- **Reference** -- **Psycholinguistics**
+
 Hicham is currently researching the sentential/discourse processing and interpretation of certain anaphoric constructions in Arabic. The purpose of this research is to understand how non-native learners of Arabic keep track of and resolve the relationship between anaphors and their antecedents. Put simply, an anaphor is a cohesive element in the sentence that connects current information with previous discourse.
 
 This line of research is of particular interest in Arabic given that many anaphors (i.e. pronominal ones) are sometimes adjoined to other words and cannot stand by themselves. Therefore, a higher level of morphological awareness might play a crucial role in how speakers interpret the who and what of discourse. Other factors of interest are perceptual salience of the referenced entity, its lexical frequency, definiteness, distance, and the type of anaphor itself (e.g. pronominal, verbal, lexical, standalone word, or adjoined). Consider the examples below (word order from Arabic is preserved to showcase the importance of resumptive pronouns):

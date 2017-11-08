@@ -4,6 +4,8 @@
 
 [Personal website.](https://stanleydonahoo.weebly.com/)
 
+Focuses: **Pragmatics/disourse** -- **Obscenities** -- **Neuroscience**
+
 Stanley Donahoo’s research is broadly concerned with how language is
 represented in the mind/brain, and how this process is informed by
 social meaning. As such, Stanley is currently working on the
