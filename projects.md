@@ -1,3 +1,3 @@
 # Projects
 
-To be updated soon.
+See individual [people](people.md) for a list of topics.
