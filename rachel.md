@@ -1,6 +1,8 @@
 # Rachel Brown's research
 
-![Rachel](images/rachel.png)
+<img src="images/rachel.png" width="250" float="right" align="right" padding="10px">
+
+[Personal Website](http://www.rachelbrownlinguistics.com/) 
 
 Rachel’s project examines the interaction between context, meaning and linguistic structure during sentence processing using behavioral (reaction times or keyboard responses) and neurological methods (EEG).  Specifically, she is working on how contextual information influences the reading of ambiguous multi-word phrases like \*mechanical pencil eraser \*(“eraser from a mechanical pencil” or “pencil eraser that is mechanical”). These phrases differ on whether they include words referring to living beings (e.g., \*mechanical pencil eraser\* vs \*clever lizard tail\*) and whether they have a preferred interpretation (“tail of a clever lizard” is preferred over “lizard tail that is clever”). She is testing whether the reading times and EEG signals differ in response to different ambiguous phrases. Examining these stimuli will help answer:
 

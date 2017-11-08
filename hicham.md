@@ -1,6 +1,6 @@
 # Hicham Assaoui's research
 
-![Hicham](images/hicham.png)
+<img src="images/hicham.png" width="250" float="right" align="right" padding="10px">
 
 [hassaoui@email.arizona.edu](hassaoui@email.arizona.edu)
 

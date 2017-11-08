@@ -1,6 +1,6 @@
 # Josh Meyer's research
 
-![Josh](images/josh.png)
+<img src="images/josh.png" width="250" float="right" align="right" padding="10px">
 
 Developing any kind of human language technology (HLT) typically requires a large amount of data from spoken and/or written corpora.  However, for most of the world’s languages these resources are not currently available.
 

@@ -1,6 +1,6 @@
 # Leah Rice
 
-![Leah](images/leah.png)
+<img src="images/leah.png" width="250" float="right" align="right" padding="10px">
 
 Leah’s research involves linking current syntactic theory with the
 cognitive neuroscience of language. Current studies are probing the
