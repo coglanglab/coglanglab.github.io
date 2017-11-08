@@ -2,3 +2,5 @@
 title: Cognition and Language Lab
 description: At the University of Arizona
 show_downloads: false
+
+theme: jekyll-theme-cayman
