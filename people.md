@@ -2,7 +2,7 @@
 
 ## Lab Head
 
-[Tom Gordon Bever](tom)
+[Tom Bever](tom)
 
 ## Doctoral Students
 
