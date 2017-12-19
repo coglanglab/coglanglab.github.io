@@ -134,11 +134,7 @@ Psycholinguistics
     comprehension: A critique of Carpenter and Just. *Psychological
     Review*, 83, 310-317.
 -   Carroll, J. & Bever, T.G. (1978). Sentence comprehension: a case study in the relation of knowledge and perception. In Carterette & Friedman (Eds.), *Handbook of perception*, Vol. 7, (pp. 299-317). ([pdf](articles/Carroll&Bever_1978_.pdf))
--   Carroll, J.M., Tanenhaus, M.K., & Bever, T.G. (1978). The perception
-    of relations: the interaction of structural, functional, and
-    contextual factors in the segmentation of sentences. In W.J.M.
-    Levelt and G. Flores d'Arcais (Eds.), *Studies in the perception of
-    language* (pp. 187-218). New York: Wiley.
+-   Carroll, J.M., Tanenhaus, M.K., & Bever, T.G. (1978). The perception of relations: the interaction of structural, functional, and contextual factors in the segmentation of sentences. In W.J.M.  Levelt and G. Flores d'Arcais (Eds.), *Studies in the perception of language* (pp. 187-218). New York: Wiley. ([pdf][articles/carroll1978.pdf])
 -   Townsend, D., & Bever, T.G. (1978). Interclause relations and clausal processing. *Journal of Verbal Learning and Verbal Behavior,* 17, 509-521. ([pdf](articles/townsendbever1978-interclause_relations_and_clausal_properties.pdf))
 -   Bever, T.G., Garrett, M.R., & Hurtig, R. (1976). Projection
     mechanisms in reading, or when the journal review process fails.
